@@ -1,0 +1,77 @@
+[2019-06-13 13:11:25.818] [exthost] [info] extension host started
+[2019-06-13 13:11:27.156] [exthost] [info] extension host started
+[2019-06-13 13:11:27.205] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:27.206] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-13 13:11:27.214] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:27.214] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/emmet/dist/extension
+[2019-06-13 13:11:27.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-13 13:11:27.256] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/configuration-editing/dist/extension
+[2019-06-13 13:11:27.273] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-13 13:11:27.273] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-06-13 13:11:27.450] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-13 13:11:27.450] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/typescript-language-features/dist/extension
+[2019-06-13 13:11:27.584] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-13 13:11:27.584] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/grunt/dist/main
+[2019-06-13 13:11:27.589] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-13 13:11:27.589] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/gulp/dist/main
+[2019-06-13 13:11:27.595] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-13 13:11:27.595] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/jake/dist/main
+[2019-06-13 13:11:27.602] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-13 13:11:27.602] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/npm/dist/main
+[2019-06-13 13:11:27.637] [exthost] [info] eager extensions activated
+[2019-06-13 13:11:28.293] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":false,"activationEvent":"*"}
+[2019-06-13 13:11:28.293] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-06-13 13:11:34.292] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":false,"activationEvent":"*"}
+[2019-06-13 13:11:34.292] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-06-13 13:11:47.382] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":false,"activationEvent":"*"}
+[2019-06-13 13:11:47.382] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-06-13 13:11:47.736] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":false,"activationEvent":"*"}
+[2019-06-13 13:11:47.736] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/extensions/formulahendry.auto-rename-tag-0.0.15/out/src/extension
+[2019-06-13 13:11:54.143] [exthost] [info] extension host started
+[2019-06-13 13:11:54.249] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-13 13:11:54.249] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/configuration-editing/dist/extension
+[2019-06-13 13:11:54.256] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-13 13:11:54.256] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-06-13 13:11:54.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-13 13:11:54.301] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/typescript-language-features/dist/extension
+[2019-06-13 13:11:54.333] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:54.333] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-13 13:11:54.336] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:54.336] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/emmet/dist/extension
+[2019-06-13 13:11:54.342] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:54.342] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-06-13 13:11:54.354] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:54.354] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-06-13 13:11:54.459] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:54.459] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-06-13 13:11:54.461] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:54.461] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/extensions/formulahendry.auto-rename-tag-0.0.15/out/src/extension
+[2019-06-13 13:11:54.478] [exthost] [info] eager extensions activated
+[2019-06-13 13:11:54.903] [exthost] [info] extension host started
+[2019-06-13 13:11:54.930] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:54.930] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-13 13:11:54.933] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:54.933] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/emmet/dist/extension
+[2019-06-13 13:11:54.937] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:54.937] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2019-06-13 13:11:54.950] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:54.950] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/extensions/dbaeumer.vscode-eslint-1.9.0/client/out/extension
+[2019-06-13 13:11:55.011] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:55.011] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/extensions/formulahendry.auto-close-tag-0.5.6/out/src/extension
+[2019-06-13 13:11:55.012] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag {"startup":true,"activationEvent":"*"}
+[2019-06-13 13:11:55.012] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/extensions/formulahendry.auto-rename-tag-0.0.15/out/src/extension
+[2019-06-13 13:11:55.016] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-13 13:11:55.016] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/configuration-editing/dist/extension
+[2019-06-13 13:11:55.019] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-13 13:11:55.019] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/json-language-features/client/dist/jsonMain
+[2019-06-13 13:11:55.035] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2019-06-13 13:11:55.035] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/typescript-language-features/dist/extension
+[2019-06-13 13:11:55.053] [exthost] [info] eager extensions activated
+[2019-06-13 13:11:55.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.grunt {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-13 13:11:55.125] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/grunt/dist/main
+[2019-06-13 13:11:55.128] [exthost] [info] ExtensionService#_doActivateExtension vscode.gulp {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-13 13:11:55.128] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/gulp/dist/main
+[2019-06-13 13:11:55.131] [exthost] [info] ExtensionService#_doActivateExtension vscode.jake {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-13 13:11:55.131] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/jake/dist/main
+[2019-06-13 13:11:55.134] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"activationEvent":"onCommand:workbench.action.tasks.runTask"}
+[2019-06-13 13:11:55.134] [exthost] [info] ExtensionService#loadCommonJSModule /home/przemysaw/.codemix/engine/resources/app/extensions/npm/dist/main

@@ -1,0 +1,171 @@
+[2019-06-13 13:11:23.692] [sharedprocess] [info] main {"machineId":"c1bccdd5295b49bfa90e9b1ae2612721c51a9c4d7bb23ca9f501d5045b18efd9"}
+[2019-06-13 13:11:23.806] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-13 13:11:23.922] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:24.553] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-13 13:11:24.555] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-13 13:11:24.666] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:24.673] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:25.740] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-13 13:11:25.816] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:25.828] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-13 13:11:25.879] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:26.420] [sharedprocess] [info] Scanned user extensions: 0
+[2019-06-13 13:11:26.420] [sharedprocess] [info] Installing the extension: codemix.angular
+[2019-06-13 13:11:26.472] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.codemix.angular-0.9.4: codemix.angular
+[2019-06-13 13:11:26.486] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/codemix.angular-0.9.4
+[2019-06-13 13:11:26.487] [sharedprocess] [info] Installation completed. codemix.angular
+[2019-06-13 13:11:26.489] [sharedprocess] [info] Successfully installed the extension: codemix.angular
+[2019-06-13 13:11:26.732] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-13 13:11:26.806] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-13 13:11:26.900] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:26.967] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-13 13:11:27.913] [sharedprocess] [info] Scanned user extensions: 1
+[2019-06-13 13:11:27.914] [sharedprocess] [info] Installing the extension: formulahendry.auto-close-tag
+[2019-06-13 13:11:28.050] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.formulahendry.auto-close-tag-0.5.6: formulahendry.auto-close-tag
+[2019-06-13 13:11:28.050] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/formulahendry.auto-close-tag-0.5.6
+[2019-06-13 13:11:28.055] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag
+[2019-06-13 13:11:28.055] [sharedprocess] [info] Successfully installed the extension: formulahendry.auto-close-tag
+[2019-06-13 13:11:28.104] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-13 13:11:28.180] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:28.263] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-13 13:11:29.624] [sharedprocess] [info] Scanned user extensions: 2
+[2019-06-13 13:11:29.625] [sharedprocess] [info] Installing the extension: mkaufman.htmlhint
+[2019-06-13 13:11:33.454] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.mkaufman.htmlhint-0.6.0: mkaufman.htmlhint
+[2019-06-13 13:11:33.454] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/mkaufman.htmlhint-0.6.0
+[2019-06-13 13:11:33.455] [sharedprocess] [info] Installation completed. mkaufman.htmlhint
+[2019-06-13 13:11:33.455] [sharedprocess] [info] Successfully installed the extension: mkaufman.htmlhint
+[2019-06-13 13:11:33.545] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:33.787] [sharedprocess] [info] Scanned user extensions: 3
+[2019-06-13 13:11:33.837] [sharedprocess] [info] Scanned user extensions: 3
+[2019-06-13 13:11:33.855] [sharedprocess] [info] Scanned user extensions: 3
+[2019-06-13 13:11:33.855] [sharedprocess] [info] Installing the extension: ms-vscode.vscode-typescript-tslint-plugin
+[2019-06-13 13:11:33.993] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.ms-vscode.vscode-typescript-tslint-plugin-1.1.0: ms-vscode.vscode-typescript-tslint-plugin
+[2019-06-13 13:11:33.993] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/ms-vscode.vscode-typescript-tslint-plugin-1.1.0
+[2019-06-13 13:11:33.994] [sharedprocess] [info] Installation completed. ms-vscode.vscode-typescript-tslint-plugin
+[2019-06-13 13:11:33.994] [sharedprocess] [info] Successfully installed the extension: ms-vscode.vscode-typescript-tslint-plugin
+[2019-06-13 13:11:34.021] [sharedprocess] [info] Scanned user extensions: 4
+[2019-06-13 13:11:34.048] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:34.085] [sharedprocess] [info] Scanned user extensions: 4
+[2019-06-13 13:11:34.095] [sharedprocess] [info] Scanned user extensions: 4
+[2019-06-13 13:11:34.095] [sharedprocess] [info] Installing the extension: codemix.web
+[2019-06-13 13:11:34.101] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.codemix.web-0.9.6: codemix.web
+[2019-06-13 13:11:34.102] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/codemix.web-0.9.6
+[2019-06-13 13:11:34.102] [sharedprocess] [info] Installation completed. codemix.web
+[2019-06-13 13:11:34.102] [sharedprocess] [info] Successfully installed the extension: codemix.web
+[2019-06-13 13:11:34.112] [sharedprocess] [info] Scanned user extensions: 5
+[2019-06-13 13:11:34.138] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:34.171] [sharedprocess] [info] Scanned user extensions: 5
+[2019-06-13 13:11:34.186] [sharedprocess] [info] Scanned user extensions: 5
+[2019-06-13 13:11:34.187] [sharedprocess] [info] Installing the extension: christian-kohler.path-intellisense
+[2019-06-13 13:11:34.250] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.christian-kohler.path-intellisense-1.4.2: christian-kohler.path-intellisense
+[2019-06-13 13:11:34.250] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/christian-kohler.path-intellisense-1.4.2
+[2019-06-13 13:11:34.251] [sharedprocess] [info] Installation completed. christian-kohler.path-intellisense
+[2019-06-13 13:11:34.252] [sharedprocess] [info] Successfully installed the extension: christian-kohler.path-intellisense
+[2019-06-13 13:11:34.271] [sharedprocess] [info] Scanned user extensions: 6
+[2019-06-13 13:11:34.327] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:34.394] [sharedprocess] [info] Scanned user extensions: 6
+[2019-06-13 13:11:34.409] [sharedprocess] [info] Scanned user extensions: 6
+[2019-06-13 13:11:34.409] [sharedprocess] [info] Installing the extension: codemix.node
+[2019-06-13 13:11:34.432] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.codemix.node-0.9.3: codemix.node
+[2019-06-13 13:11:34.432] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/codemix.node-0.9.3
+[2019-06-13 13:11:34.433] [sharedprocess] [info] Installation completed. codemix.node
+[2019-06-13 13:11:34.434] [sharedprocess] [info] Successfully installed the extension: codemix.node
+[2019-06-13 13:11:34.464] [sharedprocess] [info] Scanned user extensions: 7
+[2019-06-13 13:11:34.508] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:34.556] [sharedprocess] [info] Scanned user extensions: 7
+[2019-06-13 13:11:34.575] [sharedprocess] [info] Scanned user extensions: 7
+[2019-06-13 13:11:34.575] [sharedprocess] [info] Installing the extension: formulahendry.code-runner
+[2019-06-13 13:11:34.796] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.formulahendry.code-runner-0.9.10: formulahendry.code-runner
+[2019-06-13 13:11:34.796] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/formulahendry.code-runner-0.9.10
+[2019-06-13 13:11:34.799] [sharedprocess] [info] Installation completed. formulahendry.code-runner
+[2019-06-13 13:11:34.799] [sharedprocess] [info] Successfully installed the extension: formulahendry.code-runner
+[2019-06-13 13:11:34.821] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-13 13:11:34.853] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:34.941] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-13 13:11:34.986] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-13 13:11:34.986] [sharedprocess] [info] Installing the extension: msjsdiag.debugger-for-chrome
+[2019-06-13 13:11:35.477] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.msjsdiag.debugger-for-chrome-4.11.3: msjsdiag.debugger-for-chrome
+[2019-06-13 13:11:35.477] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/msjsdiag.debugger-for-chrome-4.11.3
+[2019-06-13 13:11:35.479] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome
+[2019-06-13 13:11:35.481] [sharedprocess] [info] Successfully installed the extension: msjsdiag.debugger-for-chrome
+[2019-06-13 13:11:35.503] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-13 13:11:35.554] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:35.592] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-13 13:11:37.803] [sharedprocess] [info] Scanned user extensions: 9
+[2019-06-13 13:11:37.803] [sharedprocess] [info] Installing the extension: angular.ng-template
+[2019-06-13 13:11:47.252] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.angular.ng-template-0.800.0: angular.ng-template
+[2019-06-13 13:11:47.253] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/angular.ng-template-0.800.0
+[2019-06-13 13:11:47.253] [sharedprocess] [info] Installation completed. angular.ng-template
+[2019-06-13 13:11:47.254] [sharedprocess] [info] Successfully installed the extension: angular.ng-template
+[2019-06-13 13:11:47.276] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-13 13:11:47.299] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:47.332] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-13 13:11:47.338] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-13 13:11:47.338] [sharedprocess] [info] Installing the extension: dbaeumer.vscode-eslint
+[2019-06-13 13:11:47.349] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.dbaeumer.vscode-eslint-1.9.0: dbaeumer.vscode-eslint
+[2019-06-13 13:11:47.349] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/dbaeumer.vscode-eslint-1.9.0
+[2019-06-13 13:11:47.350] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2019-06-13 13:11:47.350] [sharedprocess] [info] Successfully installed the extension: dbaeumer.vscode-eslint
+[2019-06-13 13:11:47.385] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-13 13:11:47.400] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:47.440] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-13 13:11:47.449] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-13 13:11:47.449] [sharedprocess] [info] Installing the extension: johnpapa.angular2
+[2019-06-13 13:11:47.511] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.johnpapa.angular2-7.1.6: johnpapa.angular2
+[2019-06-13 13:11:47.511] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/johnpapa.angular2-7.1.6
+[2019-06-13 13:11:47.512] [sharedprocess] [info] Installation completed. johnpapa.angular2
+[2019-06-13 13:11:47.512] [sharedprocess] [info] Successfully installed the extension: johnpapa.angular2
+[2019-06-13 13:11:47.536] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-13 13:11:47.557] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:47.599] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-13 13:11:47.606] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-13 13:11:47.606] [sharedprocess] [info] Installing the extension: xabikos.javascriptsnippets
+[2019-06-13 13:11:47.614] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.xabikos.javascriptsnippets-1.7.2: xabikos.javascriptsnippets
+[2019-06-13 13:11:47.614] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/xabikos.javascriptsnippets-1.7.2
+[2019-06-13 13:11:47.614] [sharedprocess] [info] Installation completed. xabikos.javascriptsnippets
+[2019-06-13 13:11:47.615] [sharedprocess] [info] Successfully installed the extension: xabikos.javascriptsnippets
+[2019-06-13 13:11:47.637] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-13 13:11:47.658] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:47.687] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-13 13:11:47.697] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-13 13:11:47.697] [sharedprocess] [info] Installing the extension: formulahendry.auto-rename-tag
+[2019-06-13 13:11:47.707] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.formulahendry.auto-rename-tag-0.0.15: formulahendry.auto-rename-tag
+[2019-06-13 13:11:47.707] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/formulahendry.auto-rename-tag-0.0.15
+[2019-06-13 13:11:47.707] [sharedprocess] [info] Installation completed. formulahendry.auto-rename-tag
+[2019-06-13 13:11:47.708] [sharedprocess] [info] Successfully installed the extension: formulahendry.auto-rename-tag
+[2019-06-13 13:11:47.742] [sharedprocess] [info] Scanned user extensions: 14
+[2019-06-13 13:11:47.760] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:47.792] [sharedprocess] [info] Scanned user extensions: 14
+[2019-06-13 13:11:47.801] [sharedprocess] [info] Scanned user extensions: 14
+[2019-06-13 13:11:47.801] [sharedprocess] [info] Installing the extension: bradgashler.htmltagwrap
+[2019-06-13 13:11:47.891] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.bradgashler.htmltagwrap-0.0.7: bradgashler.htmltagwrap
+[2019-06-13 13:11:47.895] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/bradgashler.htmltagwrap-0.0.7
+[2019-06-13 13:11:47.896] [sharedprocess] [info] Installation completed. bradgashler.htmltagwrap
+[2019-06-13 13:11:47.897] [sharedprocess] [info] Successfully installed the extension: bradgashler.htmltagwrap
+[2019-06-13 13:11:47.952] [sharedprocess] [info] Scanned user extensions: 15
+[2019-06-13 13:11:47.974] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:48.012] [sharedprocess] [info] Scanned user extensions: 15
+[2019-06-13 13:11:48.022] [sharedprocess] [info] Scanned user extensions: 15
+[2019-06-13 13:11:48.022] [sharedprocess] [info] Installing the extension: codemix.typescript
+[2019-06-13 13:11:48.025] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.codemix.typescript-0.9.4: codemix.typescript
+[2019-06-13 13:11:48.026] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/codemix.typescript-0.9.4
+[2019-06-13 13:11:48.026] [sharedprocess] [info] Installation completed. codemix.typescript
+[2019-06-13 13:11:48.026] [sharedprocess] [info] Successfully installed the extension: codemix.typescript
+[2019-06-13 13:11:48.056] [sharedprocess] [info] Scanned user extensions: 16
+[2019-06-13 13:11:48.074] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:48.118] [sharedprocess] [info] Scanned user extensions: 16
+[2019-06-13 13:11:48.131] [sharedprocess] [info] Scanned user extensions: 16
+[2019-06-13 13:11:48.131] [sharedprocess] [info] Installing the extension: robinbentley.sass-indented
+[2019-06-13 13:11:48.151] [sharedprocess] [info] Extracted extension to /home/przemysaw/.codemix/extensions/.robinbentley.sass-indented-1.5.1: robinbentley.sass-indented
+[2019-06-13 13:11:48.151] [sharedprocess] [info] Renamed to /home/przemysaw/.codemix/extensions/robinbentley.sass-indented-1.5.1
+[2019-06-13 13:11:48.152] [sharedprocess] [info] Installation completed. robinbentley.sass-indented
+[2019-06-13 13:11:48.152] [sharedprocess] [info] Successfully installed the extension: robinbentley.sass-indented
+[2019-06-13 13:11:48.217] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:48.267] [sharedprocess] [info] Scanned user extensions: 17
+[2019-06-13 13:11:48.314] [sharedprocess] [info] Scanned user extensions: 17
+[2019-06-13 13:11:53.103] [sharedprocess] [info] Scanned user extensions: 17
+[2019-06-13 13:11:53.138] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:54.144] [sharedprocess] [info] Scanned user extensions: 17
+[2019-06-13 13:11:54.181] [sharedprocess] [info] Scanned system extensions: 71
+[2019-06-13 13:11:55.392] [sharedprocess] [info] Scanned user extensions: 17
+[2019-06-13 13:12:03.718] [sharedprocess] [info] Starting to clean up unused language packs.
